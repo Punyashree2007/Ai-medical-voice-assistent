@@ -124,6 +124,6 @@ function AddNewSessionDialog() {
   );
 }
 
-export default AddNewSessionDialog
+export default AddNewSessionDialog;
 
 
